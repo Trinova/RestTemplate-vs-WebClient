@@ -1,6 +1,6 @@
 # RestTemplate-vs-WebClient
 
-Simple project to show the difference in memory usage of [Springs](https://spring.io/) RestTemplate and WebClient APIs.
+Simple project to show the difference in memory usage of [Springs](https://spring.io/) RestTemplate and WebClient APIs for [this stackoverflow question](https://stackoverflow.com/questions/62714339/why-does-resttemplate-consume-excessive-amounts-of-memory).
 
 ## Experiment
 
